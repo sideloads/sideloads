@@ -61,9 +61,7 @@
      src="https://github-readme-stats.vercel.app/api/pin/?username=sideloads&repo=Synergy&theme=tokyonight"
 />
 
-</br>
-</br>
-</br>
+&nbsp;
 
 <img align="left"
      src="https://github-readme-stats.vercel.app/api?username=sideloads&show_icons=true&theme=tokyonight"
