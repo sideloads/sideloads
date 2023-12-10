@@ -53,7 +53,6 @@
      />
 </a>
 
-<br>
 
 ### Currently Working On
 
@@ -61,6 +60,7 @@
      src="https://github-readme-stats.vercel.app/api/pin/?username=sideloads&repo=Synergy&theme=tokyonight"
 />
 
+<hr>
 <br>
 
 <img align="left"
