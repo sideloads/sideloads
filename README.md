@@ -13,7 +13,7 @@
 
 <br>
 
-## Currently Learning:
+## Currently Learning
 <a href="https://www.java.com/en/">
      <img
          align="left" alt="Java" width="44" height="44" 
@@ -30,7 +30,7 @@
 
 <br>
 
-## Confident In:
+## Confident In
 
 <a href="https://html.com/">
      <img
@@ -60,8 +60,6 @@
      src="https://github-readme-stats.vercel.app/api/pin/?username=sideloads&repo=Synergy&theme=tokyonight"
 />
 
-<hr>
-<br>
 
 <img align="left"
      src="https://github-readme-stats.vercel.app/api?username=sideloads&show_icons=true&theme=tokyonight"
