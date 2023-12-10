@@ -29,6 +29,8 @@
      />
 </a>
 
+<br />
+
 ### Confident in:
 
 <a href="https://html.com/">
@@ -60,6 +62,7 @@
      src="https://github-readme-stats.vercel.app/api?username=sideloads&show_icons=true&theme=tokyonight"
 />
 
+<br />
 
 ### Currently Working On
 
