@@ -53,6 +53,16 @@
      />
 </a>
 
+<br>
+
+### Currently Working On
+
+<img align="left"
+     src="https://github-readme-stats.vercel.app/api/pin/?username=sideloads&repo=Synergy&theme=tokyonight"
+/>
+
+
+<br>
 
 
 <img align="right"
@@ -60,8 +70,4 @@
 />
 
 
-### Currently Working On
 
-<img align="left"
-     src="https://github-readme-stats.vercel.app/api/pin/?username=sideloads&repo=Synergy&theme=tokyonight"
-/>
