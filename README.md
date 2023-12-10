@@ -5,14 +5,13 @@
 
 </h3>
 
-
 <hr>
 
 <h4 align="left">
      I'm a developer from the United Kingdom! <br>
 </h4>
 
-<br />
+<hr>
 
 ### Currently Learning:
 <a href="https://www.java.com/en/">
@@ -29,8 +28,7 @@
      />
 </a>
 
-<br />
-
+<hr>
 
 ### Confident in:
 
