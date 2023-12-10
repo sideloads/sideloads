@@ -29,7 +29,7 @@
      />
 </a>
 
-Confident in:
+### Confident in:
 
 <a href="https://html.com/">
      <img
