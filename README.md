@@ -11,7 +11,7 @@
      I'm a developer from the United Kingdom! <br>
 </h4>
 
-<hr>
+<br>
 
 ### Currently Learning:
 <a href="https://www.java.com/en/">
