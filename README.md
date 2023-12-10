@@ -57,14 +57,19 @@
 
 ## Currently Working On
 
-<img align="left"
-     src="https://github-readme-stats.vercel.app/api/pin/?username=sideloads&repo=Synergy&theme=tokyonight"
-/>
-
-<div align="left">
-  <sub><sup>.</sup></sub>
-</div>
-
-<img align="left"
-     src="https://github-readme-stats.vercel.app/api?username=sideloads&show_icons=true&theme=tokyonight"
-/>
+<table>
+  <tr>
+    <td>
+      <img align="left"
+           src="https://github-readme-stats.vercel.app/api/pin/?username=sideloads&repo=Synergy&theme=tokyonight"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img align="left"
+           src="https://github-readme-stats.vercel.app/api?username=sideloads&show_icons=true&theme=tokyonight"
+      />
+    </td>
+  </tr>
+</table>
