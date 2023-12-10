@@ -29,7 +29,7 @@
      />
 </a>
 
-<br />
+<hr>
 
 ### Confident in:
 
@@ -54,7 +54,6 @@
      />
 </a>
 
-<br />
 
 <hr>
 
@@ -62,7 +61,7 @@
      src="https://github-readme-stats.vercel.app/api?username=sideloads&show_icons=true&theme=tokyonight"
 />
 
-<br />
+<hr>
 
 ### Currently Working On
 
