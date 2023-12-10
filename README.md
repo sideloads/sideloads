@@ -4,6 +4,7 @@
    Hey I'm Sideload! 
 
 </h3>
+![](https://komarev.com/ghpvc/?username=sideloads)
 
 <hr>
 
@@ -60,3 +61,6 @@
 ![Synergy](https://github-readme-stats.vercel.app/api/pin/?username=sideloads&repo=Synergy&theme=tokyonight)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=sideloads&show_icons=true&theme=tokyonight)
+
+
+
