@@ -29,7 +29,8 @@
      />
 </a>
 
-<hr>
+<br />
+
 
 ### Confident in:
 
@@ -55,16 +56,14 @@
 </a>
 
 
-<hr>
 
 <img align="right"
      src="https://github-readme-stats.vercel.app/api?username=sideloads&show_icons=true&theme=tokyonight"
 />
 
-<hr>
 
 ### Currently Working On
 
-<img align="right"
+<img align="left"
      src="https://github-readme-stats.vercel.app/api/pin/?username=sideloads&repo=Synergy&theme=tokyonight"
 />
