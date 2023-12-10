@@ -13,7 +13,7 @@
 
 <br>
 
-### Currently Learning:
+## Currently Learning:
 <a href="https://www.java.com/en/">
      <img
          align="left" alt="Java" width="30px" height="30" 
@@ -24,13 +24,13 @@
 <a href="https://www.rust-lang.org/">
      <img
           align="left" alt="Rust" width="30" height="30"
-          src="https://icons8.com/icon/haeAxVQEIg0F/rust-programming-language"
+          src="https://img.icons8.com/?size=48&id=haeAxVQEIg0F&format=png"
      />
 </a>
 
 <br>
 
-### Confident in:
+## Confident In:
 
 <a href="https://html.com/">
      <img
@@ -49,7 +49,7 @@
 <a href="https://www.python.org/">
      <img
           align="left" alt="Python" width="30" height="30"
-          src="https://icons8.com/icon/13441/pytho)"
+          src="https://img.icons8.com/?size=48&id=13441&format=png)"
      />
 </a>
 
@@ -61,6 +61,7 @@
      src="https://github-readme-stats.vercel.app/api/pin/?username=sideloads&repo=Synergy&theme=tokyonight"
 />
 
+<br>
 
 <img align="left"
      src="https://github-readme-stats.vercel.app/api?username=sideloads&show_icons=true&theme=tokyonight"
