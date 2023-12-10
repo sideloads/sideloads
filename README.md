@@ -53,7 +53,6 @@
      />
 </a>
 
-<hr>
 <br>
 
 ## Currently Working On
