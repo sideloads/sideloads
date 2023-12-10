@@ -57,13 +57,9 @@
 
 ## Currently Working On
 
-<img align="left"
-     src="https://github-readme-stats.vercel.app/api/pin/?username=sideloads&repo=Synergy&theme=tokyonight"
-/>
+![Synergy](https://github-readme-stats.vercel.app/api/pin/?username=sideloads&repo=Synergy&theme=tokyonight)
 
-  <br />
-  <br />
-  
-<img align="left"
-     src="https://github-readme-stats.vercel.app/api?username=sideloads&show_icons=true&theme=tokyonight"
-/>
+<!-- This is a transparent image used as a spacer -->
+![spacer](https://raw.githubusercontent.com/hiloki/spacer/master/spacer.png)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=sideloads&show_icons=true&theme=tokyonight)
