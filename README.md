@@ -61,9 +61,9 @@
      src="https://github-readme-stats.vercel.app/api/pin/?username=sideloads&repo=Synergy&theme=tokyonight"
 />
 
-<!-- This is a transparent image used as a spacer -->
-<img src="https://raw.githubusercontent.com/hiloki/spacer/master/spacer.png)" height="50px" width="10px"/>
-
+  <br />
+  <br />
+  
 <img align="left"
      src="https://github-readme-stats.vercel.app/api?username=sideloads&show_icons=true&theme=tokyonight"
 />
