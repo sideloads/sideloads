@@ -28,7 +28,7 @@
      />
 </a>
 
-<hr>
+<br>
 
 ### Confident in:
 
