@@ -1,5 +1,11 @@
 # Hey, I'm Sideload!
-## 💫 About Me: <span style="margin-bottom: 0 !important"></span>
+<div id="user-content-toc">
+  <ul style="list-style: none;">
+    <summary>
+      <h2>💫 About Me:</h2>
+    </summary>
+  </ul>
+</div>
 🔭 Currently working on [@NebulaKlient](https://github.com/NebulaKlient), [@jvmdotre](https://github.com/jvmdotre), and [@jayden-dev](https://github.com/jayden-dev)  
 🌱 I'm a 2nd-year university student learning Rust and C#  
 ⚡ Fun fact: Cosmic rays flip bits in computers—like in 2003, when one gave a candidate 4,096 phantom votes in Belgium.
