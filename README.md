@@ -1,6 +1,5 @@
 # Hey, I'm Sideload!
 <div id="user-content-toc">
-    <summary>
       <h2>💫 About Me:</h2>
 </div>
 🔭 Currently working on [@NebulaKlient](https://github.com/NebulaKlient), [@jvmdotre](https://github.com/jvmdotre), and [@jayden-dev](https://github.com/jayden-dev)  
