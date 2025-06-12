@@ -9,7 +9,7 @@
 <div id="toc"> 
   <ul style="list-style: none;">
     <summary>
-      <h4><b>🔭 Currently working on [@NebulaKlient](https://github.com/NebulaKlient), [@jvmdotre](https://github.com/jvmdotre), and [@jayden-dev](https://github.com/jayden-dev)</b></h4>
+      <h4><b>🔭 Currently working on <a href="https://github.com/NebulaKlient">@NebulaKlient</a>, <a href="https://github.com/jvmdotre">@jvmdotre</a>, and <a href="https://github.com/jayden-dev">@jayden-dev</a></b></h4>
       <h4><b>🌱 I'm a 2nd-year university student learning Rust and C#</b></h4>
       <h4><b>⚡ Fun fact: Cosmic rays flip bits in computers—like in 2003, when one gave a candidate 4,096 phantom votes in Belgium</b></h4>
     </summary>
