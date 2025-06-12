@@ -1,5 +1,4 @@
 # Hey, I'm Sideload!
-
 ## 💫 About Me:
 🔭 Currently working on [@NebulaKlient](https://github.com/NebulaKlient), [@jvmdotre](https://github.com/jvmdotre), and [@jayden-dev](https://github.com/jayden-dev)  
 🌱 I'm a 2nd-year university student learning Rust and C#  
