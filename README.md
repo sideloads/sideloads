@@ -2,7 +2,6 @@
 <div id="user-content-toc">
     <summary>
       <h2>💫 About Me:</h2>
-    </summary>
 </div>
 🔭 Currently working on [@NebulaKlient](https://github.com/NebulaKlient), [@jvmdotre](https://github.com/jvmdotre), and [@jayden-dev](https://github.com/jayden-dev)  
 🌱 I'm a 2nd-year university student learning Rust and C#  
