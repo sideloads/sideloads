@@ -1,17 +1,17 @@
 # Hey, I'm Sideload!
-<div id="user-content-toc">
-  <ul align="left" style="list-style: none;">
+<div id="user-content-toc" style="margin-bottom: -10px;">
+  <ul align="left" style="list-style: none; margin-top: -10px; margin-bottom: -10px;">
     <summary>
-      <h3>💫 About Me:</h3>
+      <h3 style="margin-bottom: -10px;">💫 About Me:</h3>
     </summary>
   </ul>
 </div>
-<div id="toc"> 
-  <ul style="list-style: none;">
+<div id="toc" style="margin-top: -15px;"> 
+  <ul style="list-style: none; padding-left: 0; margin-top: -5px;">
     <summary>
-      <h4><b>🔭 Currently working on <a href="https://github.com/NebulaKlient">@NebulaKlient</a>, <a href="https://github.com/jvmdotre">@jvmdotre</a>, and <a href="https://github.com/jayden-dev">@jayden-dev</a></b></h4></br>
-      <h4><b>🌱 I'm a 2nd-year university student learning Rust and C#</b></h4>
-      <h4><b>⚡ Fun fact: Cosmic rays flip bits in computers—like in 2003, when one gave a candidate 4,096 phantom votes in Belgium</b></h4>
+      <h4 style="margin-bottom: -5px;"><b>🔭 Currently working on <a href="https://github.com/NebulaKlient">@NebulaKlient</a>, <a href="https://github.com/jvmdotre">@jvmdotre</a>, and <a href="https://github.com/jayden-dev">@jayden-dev</a></b></h4>
+      <h4 style="margin-bottom: -5px;"><b>🌱 I'm a 2nd-year university student learning Rust and C#</b></h4>
+      <h4 style="margin-bottom: -5px;"><b>⚡ Fun fact: Cosmic rays flip bits in computers—like in 2003, when one gave a candidate 4,096 phantom votes in Belgium</b></h4>
     </summary>
   </ul>
 </div>
