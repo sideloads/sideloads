@@ -6,12 +6,12 @@
     </summary>
   </ul>
 </div>
-<div id="user-content-toc">
-  <ul align="left"">
+<div id="toc"> 
+  <ul style="list-style: none;">
     <summary>
-🔭 Currently working on [@NebulaKlient](https://github.com/NebulaKlient), [@jvmdotre](https://github.com/jvmdotre), and [@jayden-dev](https://github.com/jayden-dev)  
-🌱 I'm a 2nd-year university student learning Rust and C#  
-⚡ Fun fact: Cosmic rays flip bits in computers—like in 2003, when one gave a candidate 4,096 phantom votes in Belgium.
+      <h2><b>🔭 Currently working on [@NebulaKlient](https://github.com/NebulaKlient), [@jvmdotre](https://github.com/jvmdotre), and [@jayden-dev](https://github.com/jayden-dev)</b></h2>
+      <h2><b>🌱 I'm a 2nd-year university student learning Rust and C#</b></h2>
+      <h2><b>⚡ Fun fact: Cosmic rays flip bits in computers—like in 2003, when one gave a candidate 4,096 phantom votes in Belgium</b></h2>
     </summary>
   </ul>
 </div>
